@@ -5,7 +5,7 @@ the description says its similar to the last one . so lets try the same steps
 
 ![image](https://github.com/user-attachments/assets/55d12f49-1e53-460e-acb4-90425f2ee75d)
 
-we have a similar if conditions in side check_flag() funciton
+we have a similar if conditions in check_flag() funciton
 
 lets add a breakpoint and check whats happening
 
