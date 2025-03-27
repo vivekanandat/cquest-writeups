@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/310f9077-4082-430f-8c7b-30e643ae2520)![image](https://github.com/user-attachments/assets/87d48df1-361a-4578-a0bb-a8c31eea3cac)
+[image](https://github.com/user-attachments/assets/87d48df1-361a-4578-a0bb-a8c31eea3cac)
 
 ok here we have to give some input so now we need to analyze it but lets just run strings just in case
 
