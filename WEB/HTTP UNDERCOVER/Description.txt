@@ -1,0 +1,7 @@
+Challenge Title: "HTTP Undercover"
+
+Description:
+
+Not everything is as it seems—sometimes, the real control lies beneath the surface. In this challenge, players must analyze how data flows through HTTP requests and uncover the secrets hidden within. 
+
+Author: E. Srimani Teja

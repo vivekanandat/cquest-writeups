@@ -1,0 +1,7 @@
+Challenge Title: "The XOR Puzzle"
+
+Description:
+
+A simple operation has transformed the text into something unreadable. The key holds the power to bring back what was lost. Can you uncover the right combination to make sense of it? The solution is just a few steps away!
+
+Author: E. Srimani Teja

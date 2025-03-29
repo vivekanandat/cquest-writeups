@@ -1,0 +1,8 @@
+Challenge Title: "Echoes of the Encrypted"
+
+Description: 
+
+You have been given two mysterious files—a text file with some values and an audio recording with hidden information. Your task is to analyze both files, uncover the encrypted message, and decode it using the right approach.
+
+
+Author: E. Srimani Teja

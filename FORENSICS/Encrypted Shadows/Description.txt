@@ -1,0 +1,8 @@
+Challenge Title: "Encrypted Shadows"
+
+Description:
+
+This image holds a flag concealed behind layers of encryption, protected by multiple ciphers. Only those with the right decryption techniques can uncover its secrets. Explore the depths of steganography and cryptography, and let your shell skills guide you to the hidden truth.
+
+
+Author: E. Srimani Teja

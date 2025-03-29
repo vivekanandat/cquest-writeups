@@ -1,0 +1,13 @@
+Challenge title: "The Silent Gateway"
+
+Description:
+
+Not everything is controlled by just usernames and passwords.
+Sometimes, a small unnoticed detail can change the outcome.
+Carefully inspect what’s being sent to the server.
+Can you find the missing piece and unlock access?
+
+URL: https://rogteja.pythonanywhere.com/
+
+Hint: 1)Explore the burpsuite Inspector
+2)Header
